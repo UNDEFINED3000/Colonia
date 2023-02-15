@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://github.com/UNDEFINED3000/Colonia/blob/main/favicon-32x32.png">
   <title>Frontend Mentor | Product preview card component</title>
   <link rel="stylesheet" href="https://github.com/UNDEFINED3000/Colonia/commit/d6ca67e5c60c7ff57fee5ba006801c6d763f37cb">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -23,9 +23,9 @@
     <h6>$169.99</h6>
     <div class="boton">
      <p class="txt-boton">Add to Cart</p>
-     <img class="carrito" src="C:\Users\infos\OneDrive - FUNDACIóNUNIVERSIDADINTERCONTINENTALDELAEMPRESA\UDEMY\css random\product-preview-card-component-main\product-preview-card-component-main\images\icon-cart.svg" alt="carrito">
+     <img class="carrito" src="https://github.com/UNDEFINED3000/Colonia/blob/main/icon-cart.svg">
     </div>
-   <img class="foto-colonia" src="C:\Users\infos\OneDrive - FUNDACIóNUNIVERSIDADINTERCONTINENTALDELAEMPRESA\UDEMY\css random\product-preview-card-component-main\product-preview-card-component-main\images\image-product-desktop.jpg" alt="foto-colonia">
+   <img class="foto-colonia" src="https://github.com/UNDEFINED3000/Colonia/blob/main/image-product-desktop.jpg">
   </div>
 
 </body>
